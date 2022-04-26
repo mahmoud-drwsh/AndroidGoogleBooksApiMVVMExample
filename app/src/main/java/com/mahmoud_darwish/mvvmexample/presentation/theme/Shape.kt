@@ -1,4 +1,4 @@
-package com.mahmoud_darwish.mvvmexample.ui.theme
+package com.mahmoud_darwish.mvvmexample.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
